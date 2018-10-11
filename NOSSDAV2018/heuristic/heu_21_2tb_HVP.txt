@@ -1,0 +1,47 @@
+Number of disk : 21, Storage limit :  41TB  580GB  0.000MB
+base chunk video cap is  21TB  608GB  988.918MB
+Current Capacity :  41TB  579GB  999.313MB
+Disk allocated segment total cap is  41TB  579GB  999.305MB
+3600s BAA execution time: 4834ms
+7200s BAA execution time: 3932ms
+10800s BAA execution time: 3607ms
+14400s BAA execution time: 4477ms
+18000s BAA execution time: 4745ms
+21600s BAA execution time: 4670ms
+25200s BAA execution time: 4631ms
+28800s BAA execution time: 4978ms
+32400s BAA execution time: 5116ms
+36000s BAA execution time: 4676ms
+39600s BAA execution time: 4676ms
+43200s BAA execution time: 4814ms
+46800s BAA execution time: 4294ms
+50400s BAA execution time: 4780ms
+54000s BAA execution time: 5184ms
+57600s BAA execution time: 5120ms
+61200s BAA execution time: 5175ms
+64800s BAA execution time: 4961ms
+68400s BAA execution time: 4983ms
+72000s BAA execution time: 4757ms
+75600s BAA execution time: 5051ms
+79200s BAA execution time: 5090ms
+82800s BAA execution time: 5192ms
+86400s BAA execution time: 4933ms
+ 21
+99.538125%
+157.982143
+74.774565%
+157.982143W
+211.277916W
+
+76.961544
+76.961545
+99.999999%
+
+611238
+
+100.005993%
+
+
+
+Maximum Disk: 31
+execution time : 442276952ms
